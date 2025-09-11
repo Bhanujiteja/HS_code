@@ -1,0 +1,7 @@
+langchain==0.2.1
+faiss-cpu==1.7.4
+sentence-transformers==2.7.0
+pypdf==4.2.0
+openai==1.35.3
+tiktoken==0.7.0
+streamlit==1.36.0
